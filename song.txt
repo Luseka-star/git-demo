@@ -1,12 +1,1 @@
-<<<<<<< HEAD
-My song is good
-My song is great
-My song is good
-My song is great
-My song is good
-My song is great
-My song is good
-My song is great
-=======
-We're heroes
->>>>>>> 9aa8a8b (new song string)
+Deleted song
